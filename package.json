@@ -4,5 +4,13 @@
   "description": "Learn Gulp by building an awesome development environment",
   "main": "index.js",
   "repository": "https://github.com/tonky0110/super-gulp.git",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "deploy": ""
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
