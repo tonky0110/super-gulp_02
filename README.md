@@ -37,3 +37,11 @@ create gulp task clean();
 task의 분리
 prepare: 삭제
 assets: 트랜스 파일.
+
+
+2.0 gulp-webserver
+yarn add --dev gulp-webserver
+
+
+2.1 gulp.watch()
+watch: (파일, 함수)를 전달하면, 해당 파일이 변경되면 지정된 동작을 자동으로 실행.
