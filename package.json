@@ -13,6 +13,10 @@
     "@babel/core": "^7.5.0",
     "@babel/preset-env": "^7.5.0",
     "@babel/register": "^7.4.4",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1"
+  },
+  "dependencies": {
+    "del": "^5.0.0"
   }
 }

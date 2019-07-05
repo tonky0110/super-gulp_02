@@ -75,6 +75,9 @@ typings/
 # nuxt.js build output
 .nuxt
 
+# gulp build output
+build/
+
 # vuepress build output
 .vuepress/dist
 

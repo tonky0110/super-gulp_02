@@ -23,3 +23,10 @@ Error: Cannot find module '@babel/preset-env' from 'C:\workspace\supergulp'
 yarn dev
 --> gulp dev
 --> [22:22:52] Task never defined: dev
+
+1.0 gulp가 실행하기 위한 task만들기.
+
+yarn add --dev gulp-pug
+
+gulpfile.babel.js
+create task pug
