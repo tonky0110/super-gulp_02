@@ -45,3 +45,13 @@ yarn add --dev gulp-webserver
 
 2.1 gulp.watch()
 watch: (파일, 함수)를 전달하면, 해당 파일이 변경되면 지정된 동작을 자동으로 실행.
+
+3.0 gulp-image
+image파일을 조정해줌.
+yarn add --dev gulp-image
+
+4.0 gulp-sass
+gulp-sass를 활용하기 위하여 추가적은 package가 더 펄요함.
+node-sass
+yarn add --dev node-sass gulp-sass
+_**.scss: 컴파일하지 말고, 사용만 하는 경우 파일명으로 '_'를 추가.
