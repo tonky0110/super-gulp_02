@@ -8,3 +8,18 @@ yarn add --dev gulp
 
 04 babel을 이용한 import처리
 craete .babelrc
+[22:17:27] Failed to load external module @babel/register
+[22:17:27] Error: Cannot find module '@babel/register' from 'C:\workspace\supergulp'
+[22:17:27] Failed to load external module babel-register
+[22:17:27] Error: Cannot find module 'babel-register' from 'C:\workspace\supergulp'
+[22:17:27] Failed to load external module babel-core/register
+[22:17:27] Error: Cannot find module 'babel-core/register' from 'C:\workspace\supergulp'
+[22:17:27] Failed to load external module babel/register
+[22:17:27] Error: Cannot find module 'babel/register' from 'C:\workspace\supergulp'
+--> yarn add --dev @babel/register @babel/core
+Error: Cannot find module '@babel/preset-env' from 'C:\workspace\supergulp'
+--> yarn add --dev @babel/preset-env
+
+yarn dev
+--> gulp dev
+--> [22:22:52] Task never defined: dev
