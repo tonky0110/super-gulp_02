@@ -30,3 +30,10 @@ yarn add --dev gulp-pug
 
 gulpfile.babel.js
 create task pug
+
+1.1 yarn add del
+create gulp task clean();
+
+task의 분리
+prepare: 삭제
+assets: 트랜스 파일.
