@@ -81,4 +81,5 @@ yarn add --dev uglifyify
 6.0 github pages(배포)
 yarn add --dev gulp-gh-pages
 build --> deploy --> clean
+git remote -v
 url - https://tonky0110.github.io/super-gulp/
