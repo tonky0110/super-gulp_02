@@ -77,3 +77,8 @@ yarn add --dev gulp-csso
 yarn add --dev babelify
 
 yarn add --dev uglifyify
+
+6.0 github pages(배포)
+yarn add --dev gulp-gh-pages
+build --> deploy --> clean
+url - https://tonky0110.github.io/super-gulp/
