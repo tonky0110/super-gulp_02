@@ -68,3 +68,12 @@ last 2 versions
 
 css minify.
 yarn add --dev gulp-csso
+
+
+5.0 Javascript browserify
+--> 브라우저에서 Node.js스타일의 모듈을 사용하기 위한 오픈소스
+--> yarn add --dev gulp-bro
+
+yarn add --dev babelify
+
+yarn add --dev uglifyify
