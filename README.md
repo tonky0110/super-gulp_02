@@ -55,3 +55,16 @@ gulp-sass를 활용하기 위하여 추가적은 package가 더 펄요함.
 node-sass
 yarn add --dev node-sass gulp-sass
 _**.scss: 컴파일하지 말고, 사용만 하는 경우 파일명으로 '_'를 추가.
+
+
+4.1 gulp-autoprefixer
+yarn add --dev gulp-autoprefixer
+create file '.browserslistrc'
+write options
+ex)
+last 2 versions
+> 5%
+
+
+css minify.
+yarn add --dev gulp-csso
